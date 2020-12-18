@@ -1,0 +1,5 @@
+{
+    "AppPath":"C:/Users/Bueno/Desktop/Flights Application/FlightsGUI.exe",
+    "DriverPath":"./Infrastructure/Driver",
+    "TimeWait":10
+}
