@@ -1,0 +1,13 @@
+source "http://rubygems.org"
+
+gem 'rspec'
+gem 'capybara'
+gem 'capybara-selenium'
+gem 'selenium-webdriver'
+gem 'json'
+gem 'ffi'
+gem 'capybara-sessionkeeper'
+gem 'capybara-screenshot'
+gem 'allure-rspec'
+gem 'allure-ruby-adaptor-api'
+gem 'spreadsheet'

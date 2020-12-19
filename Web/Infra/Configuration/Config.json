@@ -1,0 +1,9 @@
+{
+  "HEADLESS_BROWSER": false,
+  "SECONDS_TO_WAIT": 10,
+  "PRINT_PATH": "C:",
+  "BROWSER": 1,
+  "SERVER": "http://advantageonlineshopping.com/#/",
+  "CLOSE_BROWSER_AFTER_TEST": false,
+  "CLEAN_REPORT_FILES" : true
+}
